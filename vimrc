@@ -75,6 +75,8 @@ set relativenumber
 set cursorline
 set colorcolumn=80,120
 
+set scrolloff=3
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
