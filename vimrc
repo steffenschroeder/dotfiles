@@ -76,7 +76,7 @@ set cursorline
 set colorcolumn=80,120
 
 set scrolloff=3
-
+set background=dark 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
