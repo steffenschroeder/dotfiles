@@ -76,7 +76,11 @@ set cursorline
 set colorcolumn=80,120
 
 set scrolloff=3
+
+if $HOSTNAME == "admin"
+else
 set background=dark 
+endif
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
